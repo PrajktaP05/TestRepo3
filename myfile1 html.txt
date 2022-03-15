@@ -1,5 +1,6 @@
 <html>
+<meta>Some info</meta>
 <body>
 Some
-<</body>
+</body>
 </html>
